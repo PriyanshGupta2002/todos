@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/PersonalSite/static/css/main.86caf7e1.css",
+    "main.js": "/PersonalSite/static/js/main.3b43e03d.js",
+    "static/media/submitGif.gif": "/PersonalSite/static/media/submitGif.167855869c497f14f799.gif",
+    "static/media/intro.png": "/PersonalSite/static/media/intro.e02a185da822d7859341.png",
+    "static/media/contact.png": "/PersonalSite/static/media/contact.359e7eb930b61a00b10c.png",
+    "static/media/tailwindlogo.png": "/PersonalSite/static/media/tailwindlogo.9c2e5bcf4f97d73e438e.png",
+    "static/media/instagram.png": "/PersonalSite/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/physics.png": "/PersonalSite/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/hobbies.png": "/PersonalSite/static/media/hobbies.c9b24e26c9a34b8d2e25.png",
+    "static/media/nodejs.png": "/PersonalSite/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/gamepad.png": "/PersonalSite/static/media/gamepad.3e20ae97e041eba54310.png",
+    "static/media/javascript.png": "/PersonalSite/static/media/javascript.c9e7065d92476cb10a66.png",
+    "static/media/listening.png": "/PersonalSite/static/media/listening.a8d12a3c0b19ba573624.png",
+    "static/media/html-5.png": "/PersonalSite/static/media/html-5.a92a549a591f4acb527a.png",
+    "static/media/css.png": "/PersonalSite/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/mongo.png": "/PersonalSite/static/media/mongo.a8889d623357ad8ce30e.png",
+    "static/media/puzzle.png": "/PersonalSite/static/media/puzzle.96319c65c958ca7f4615.png",
+    "static/media/express.png": "/PersonalSite/static/media/express.967f19e53084fc186520.png",
+    "static/media/facebook.png": "/PersonalSite/static/media/facebook.4f037d961598aff2a0a4.png",
+    "static/media/nextjs.svg": "/PersonalSite/static/media/nextjs.1cc927914ef4f6172e25ec70a21644a5.svg",
+    "index.html": "/PersonalSite/index.html",
+    "main.86caf7e1.css.map": "/PersonalSite/static/css/main.86caf7e1.css.map",
+    "main.3b43e03d.js.map": "/PersonalSite/static/js/main.3b43e03d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86caf7e1.css",
+    "static/js/main.3b43e03d.js"
+  ]
+}
